@@ -29,7 +29,7 @@
                 if($search == "")
                 {
                     echo '<script language="javascript">';
-                    echo 'alert("message successfully sent")';
+                    echo 'alert("message successfully sent hih")';
                     echo '</script>';
                     exit;
                 }
